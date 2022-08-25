@@ -1,4 +1,4 @@
-# 
+#  Start Apache Server using script
 
 1)create a folder with approprite name ProjApacheStart
 
